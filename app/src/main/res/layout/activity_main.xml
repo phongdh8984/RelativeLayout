@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<!--Relative By ID-->
+<!--    <TextView-->
+<!--        android:id="@+id/text_view1"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:textSize="30sp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="View 1"/>-->
+
+<!--    <TextView-->
+<!--        android:layout_toStartOf="@+id/text_view1"-->
+<!--        android:layout_above="@+id/text_view1"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:textSize="30sp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="View 2"/>-->
+<!--    <TextView-->
+<!--        android:layout_toEndOf="@+id/text_view1"-->
+<!--        android:layout_above="@+id/text_view1"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:textSize="30sp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="View 3"/>-->
+<!--    <TextView-->
+<!--        android:layout_toEndOf="@+id/text_view1"-->
+<!--        android:layout_below="@+id/text_view1"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:textSize="30sp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="View 5"/>-->
+<!--    <TextView-->
+<!--        android:id="@+id/text_view4"-->
+<!--        android:layout_toStartOf="@+id/text_view1"-->
+<!--        android:layout_below="@+id/text_view1"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:textSize="30sp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="View 4"/>-->
+<!--    <TextView-->
+<!--            android:layout_alignStart="@+id/text_view4"-->
+<!--            android:layout_below="@+id/text_view4"-->
+<!--            android:textSize="30sp"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="View 6 sjdjhasdas"/>-->
+
+</RelativeLayout>
